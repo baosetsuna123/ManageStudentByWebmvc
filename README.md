@@ -6,7 +6,7 @@ The project includes some basic functions such as add, update, delete and I did 
 
 Add Employee Page
 
-<img width="185" alt="Screenshot 2023-07-19 132232" src="https://github.com/baosetsuna123/ManageStudentByWebmvc/assets/135978806/3f2e3f95-27f5-462c-9722-1ef4475a207f">
+<img width="385" alt="Screenshot 2023-07-19 132232" src="https://github.com/baosetsuna123/ManageStudentByWebmvc/assets/135978806/3f2e3f95-27f5-462c-9722-1ef4475a207f">
 
 Main Page
 
