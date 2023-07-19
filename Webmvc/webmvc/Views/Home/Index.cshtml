@@ -1,0 +1,39 @@
+﻿@using Buoi6.Models;
+@model List<Employee>
+
+<html>
+    <head>
+    <link href="~/css/index.css" rel="stylesheet" />
+    </head>
+    <body>
+        <p>Danh sach Employee</p>
+
+
+    <table border="1" >
+           @* dong1*@
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Dob</th>
+                <th>Sex</th>
+                <th>Position</th>
+                <th>Department</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            @foreach(Employee item in Model){
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Dob.ToString("dd-MM-yyyy")</td>
+                <td>@item.Sex</td>
+                <td>@item.Position</td>
+                <td>@item.DepartmentNavigation.Name</td>
+                <td><a href="/Employee/ViewEdit?id=@item.Id">Edit</a></td>
+                <td><a href="/Employee/DeleteEmp?id=@item.Id">Delete</a></td>
+            </tr>
+            }
+        </table>
+        <a href="/Employee/ViewCreate">Tao moi</a>
+    </body>
+</html>

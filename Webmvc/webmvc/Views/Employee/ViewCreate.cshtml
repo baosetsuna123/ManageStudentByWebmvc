@@ -1,0 +1,40 @@
+﻿@using Buoi6.Models;
+<html>
+    <head></head>
+<body>
+    <p>Tao moi Employee</p>
+    <form action="/Employee/CreateEmp" method="post">
+        <div>
+            <label>Name</label>
+            <input type="text" name="name"/>
+        </div>
+        <div>
+            <label>Dob</label>
+            <input type="date" name="dob" />
+        </div>
+        <div>
+            <label>Sex:</label>
+            <input type="radio" name="sex" value="Male"/> Male
+            <input type="radio" name="sex" value="Female" /> Female
+        </div>
+        <div>
+            <label>Position</label>
+            <select name="pos">
+                @foreach(var item in ViewBag.pos){
+                    <option value="@item.Key">@item.Key</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label>Department</label>
+            <select name="de">
+                @foreach (Department item in ViewBag.list)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit">Tao</button>
+    </form>
+</body>
+</html>

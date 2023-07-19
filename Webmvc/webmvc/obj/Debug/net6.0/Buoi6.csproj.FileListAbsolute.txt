@@ -1,0 +1,131 @@
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\appsettings.Development.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\appsettings.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.staticwebassets.runtime.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.exe
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.deps.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.runtimeconfig.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Buoi6.pdb
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Humanizer.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.csproj.AssemblyReference.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.AssemblyInfoInputs.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.AssemblyInfo.cs
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.csproj.CoreCompileInputs.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.MvcApplicationPartsAssemblyInfo.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.RazorAssemblyInfo.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.RazorAssemblyInfo.cs
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\staticwebassets.build.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\staticwebassets.development.json
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\scopedcss\bundle\Buoi6.styles.css
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\scopedcss\projectbundle\Buoi6.bundle.scp.css
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.csproj.CopyComplete
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\refint\Buoi6.dll
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.pdb
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\Buoi6.genruntimeconfig.cache
+D:\lap trinh web\PRN211_SUM2023\Buoi6\obj\Debug\net6.0\ref\Buoi6.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\appsettings.Development.json
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\appsettings.json
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.staticwebassets.runtime.json
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.exe
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.deps.json
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.runtimeconfig.json
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Buoi6.pdb
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Humanizer.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\prn211\Buoi6\Buoi6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.csproj.AssemblyReference.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.GeneratedMSBuildEditorConfig.editorconfig
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.AssemblyInfoInputs.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.AssemblyInfo.cs
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.csproj.CoreCompileInputs.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.MvcApplicationPartsAssemblyInfo.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.RazorAssemblyInfo.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.RazorAssemblyInfo.cs
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets\msbuild.Buoi6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets\msbuild.build.Buoi6.props
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Buoi6.props
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Buoi6.props
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets.build.json
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\staticwebassets.development.json
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\scopedcss\bundle\Buoi6.styles.css
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\scopedcss\projectbundle\Buoi6.bundle.scp.css
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.csproj.CopyComplete
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.dll
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\refint\Buoi6.dll
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.pdb
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\Buoi6.genruntimeconfig.cache
+D:\prn211\Buoi6\Buoi6\obj\Debug\net6.0\ref\Buoi6.dll

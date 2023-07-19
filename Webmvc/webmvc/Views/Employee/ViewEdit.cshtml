@@ -1,0 +1,49 @@
+﻿@using Buoi6.Models;
+@{
+    Employee e1 = ViewBag.e1;
+}
+<html>
+<head>
+</head>
+<body>
+    <p>Tao moi Employee</p>
+    <form action="/Employee/EditEmp" method="post">
+        <input type="text" name="id" value="@e1.Id" hidden/>
+        <div>
+            <label>Name</label>
+            <input type="text" name="name" value="@e1.Name" />
+        </div>
+        <div>
+            <label>Dob</label>
+            <input type="date" name="dob" value="@e1.Dob.ToString("yyyy-MM-dd")" />
+        </div>
+        <div>
+            <label>Sex:</label>
+       
+                <input type="radio" name="sex" value="Male"  @(e1.Sex=="Male"?"checked":"") /> Male
+            <input type="radio" name="sex" value="Female" @(e1.Sex=="Female"?"checked":"") /> Female
+          
+           
+        </div>
+        <div>
+            <label>Position</label>
+            <select name="pos">
+                @foreach (var item in ViewBag.pos)
+                {
+                    <option value="@item.Key" @(e1.Position== item.Key ?"selected":"") >@item.Key</option>
+                }
+            </select>
+        </div>
+        <div>
+            <label>Department</label>
+            <select name="de">
+                @foreach (Department item in ViewBag.list)
+                {
+                    <option value="@item.Id" @(e1.Department== item.Id ?"selected":"")>@item.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit">Edit</button>
+    </form>
+</body>
+</html>
